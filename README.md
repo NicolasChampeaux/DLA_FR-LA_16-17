@@ -2,7 +2,7 @@
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg) 
 
-This repository contains data on the segmentation of early modern printed French and Latin texts (late 16th–17th centuries).
+This repository contains data of the segmentation of early modern printed French and Latin texts (late 16th–17th centuries).
 
 ## Content
 
