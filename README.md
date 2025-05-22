@@ -10,7 +10,7 @@ This repository contains data of the segmentation of early modern printed French
 |------------------|----------------------|----------|----------|-----------|--------------|
 | s.n. | [_Le faux visage descouvert du fin renard de la France_](https://viewer.onb.ac.at/10790D2D) | 1589 | Vienna, ONB | Jacques de Varangles | N. Champeaux
 | s.n. | sample of [_Dialogue du Royaume_](https://gallica.bnf.fr/ark:/12148/bpt6k74929k) | 1589 | Paris, BNF | Didier Millot | N. Champeaux |
-| Jacques Baron | sample of [_Origine, genealogie et demonstration_](https://books.google.fr/books?id=d_vD7CdvG44C) | 1589 | Londres, British Library | Jean Perinet | N. Champeaux |
+| Jacques Baron | sample of [_Origine, genealogie et demonstration_](https://books.google.fr/books?id=d_vD7CdvG44C) | 1589 | London, British Library | Jean Perinet | N. Champeaux |
 | Nicolas Le Digne | sample of [_Le Tombeau de hault et puissant seigneur Jean Lois de la Roche Foucault_](https://gallica.bnf.fr/ark:/12148/bpt6k62800568) | 1590 | Paris, BNF| Leger Delas | N. Champeaux |
 | Pierre Turrel |sample of [_Contra Othomani Francogalliam libellus_](https://www.digitale-sammlungen.de/view/bsb10178119) | 1576 | Munich, Bayerische Staatsbibliothek | Michel de Roigny | N. Champeaux |
 | Noël Taillepied |sample of [_Recueil des Antiquitez et singularitez de la ville de Pontoise_](https://gallica.bnf.fr/ark:/12148/bpt6k108625t) | 1587 | Paris, BNF | George l'Oiselet | N. Champeaux |
