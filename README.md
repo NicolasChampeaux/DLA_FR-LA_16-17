@@ -19,7 +19,7 @@ This repository contains data of the segmentation of early modern printed French
 
 ## How to cite
 
-If you use this dataset, please cite it as below : Champeaux Nicolas, [_DLA_FR-LA_16-17_], mai 2025.
+If you use this dataset, please cite it as below : Champeaux Nicolas, _DLA_FR-LA_16-17_, mai 2025.
  
 ## Licences
 
