@@ -1,35 +1,163 @@
-schema: https://htr-united.github.io/schema/2023-06-27/schema.json
-title: DLA_FR-LA_16-17
-url: https://github.com/NicolasChampeaux/DLA_FR-LA_16-17/blob/main/README.md
 authors:
-  - name: Nicolas
-    surname: Champeaux
-    orcid: 0009-0004-0181-7968
-    roles:
-      - project-manager
-      - quality-control
-institutions: []
+- name: Nicolas
+  orcid: 0009-0004-0181-7968
+  roles:
+  - project-manager
+  - quality-control
+  surname: Champeaux
+automatically-aligned: false
+characters:
+  members:
+  - e
+  - i
+  - u
+  - a
+  - r
+  - t
+  - n
+  - o
+  - s
+  - l
+  - ſ
+  - c
+  - d
+  - m
+  - p
+  - ','
+  - q
+  - g
+  - f
+  - b
+  - h
+  - v
+  - .
+  - ¬
+  - '&'
+  - y
+  - ’
+  - x
+  - ̃
+  - ̀
+  - C
+  - ́
+  - E
+  - A
+  - P
+  - R
+  - D
+  - I
+  - ':'
+  - z
+  - æ
+  - L
+  - S
+  - T
+  - N
+  - M
+  - V
+  - F
+  - O
+  - "'"
+  - Q
+  - '?'
+  - H
+  - '1'
+  - '-'
+  - (
+  - G
+  - )
+  - B
+  - ̧
+  - j
+  - œ
+  - '2'
+  - ;
+  - ̈
+  - '5'
+  - '8'
+  - '7'
+  - X
+  - '3'
+  - '0'
+  - α
+  - '4'
+  - '9'
+  - Z
+  - '6'
+  - '!'
+  - ν
+  - ε
+  - ß
+  - Y
+  - ς
+  - ̂
+  - τ
+  - ι
+  - ̓
+  - ο
+  - μ
+  - ρ
+  - J
+  - ̨
+  - »
+  - ω
+  - υ
+  - κ
+  - ͂
+  - Æ
+  - ⁹
+  - '*'
+  - π
+  - Α
+  - δ
+  - χ
+  - σ
+  - ꝯ
+  - k
+  - '~'
+  - γ
+  - θ
+  - η
+  - λ
+  - Κ
+  - Τ
+  - U
+  - ꝗ
+  - «
+  - Œ
+  mode: NFD
 description: >-
   This repository contains data on the segmentation of early modern printed
   French and Latin texts (late 16th–17th centuries).
-language:
-  - fra
-  - lat
-production-software: eScriptorium + Kraken
-automatically-aligned: false
-script:
-  - iso: Latn
-script-type: only-typed
-time:
-  notBefore: '1560'
-  notAfter: '1615'
+format: Alto-XML
 hands:
   count: '1'
   precision: exact
+institutions: []
+language:
+- fra
+- lat
 license:
   name: CC-BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
-format: Alto-XML
+production-software: eScriptorium + Kraken
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+script:
+- iso: Latn
+script-type: only-typed
+time:
+  notAfter: '1615'
+  notBefore: '1560'
+title: DLA_FR-LA_16-17
+url: https://github.com/NicolasChampeaux/DLA_FR-LA_16-17/blob/main/README.md
 volume:
-  - metric: pages
-    count: 100
+- count: 116721
+  metric: characters
+- count: 110
+  metric: files
+- count: 3746
+  metric: lines
+- count: 100
+  metric: pages
+- count: 540
+  metric: regions
