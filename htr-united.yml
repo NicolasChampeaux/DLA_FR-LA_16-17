@@ -1,0 +1,35 @@
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+title: DLA_FR-LA_16-17
+url: https://github.com/NicolasChampeaux/DLA_FR-LA_16-17/blob/main/README.md
+authors:
+  - name: Nicolas
+    surname: Champeaux
+    orcid: 0009-0004-0181-7968
+    roles:
+      - project-manager
+      - quality-control
+institutions: []
+description: >-
+  This repository contains data on the segmentation of early modern printed
+  French and Latin texts (late 16th–17th centuries).
+language:
+  - fra
+  - lat
+production-software: eScriptorium + Kraken
+automatically-aligned: false
+script:
+  - iso: Latn
+script-type: only-typed
+time:
+  notBefore: '1560'
+  notAfter: '1615'
+hands:
+  count: '1'
+  precision: exact
+license:
+  name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
+volume:
+  - metric: pages
+    count: 100
