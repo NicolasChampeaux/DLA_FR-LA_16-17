@@ -153,11 +153,11 @@ url: https://github.com/NicolasChampeaux/DLA_FR-LA_16-17/blob/main/README.md
 volume:
 - count: 116721
   metric: characters
-- count: 110
+- count: 109
   metric: files
-- count: 3746
+- count: 3675
   metric: lines
 - count: 100
   metric: pages
-- count: 540
+- count: 528
   metric: regions
