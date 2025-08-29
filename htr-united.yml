@@ -12,100 +12,99 @@ characters:
   - i
   - u
   - a
-  - r
   - t
+  - r
   - n
   - o
   - s
   - l
-  - ſ
+  - m
   - c
   - d
-  - m
+  - ſ
   - p
   - ','
   - q
   - g
-  - f
+  - .
   - b
+  - f
+  - ¬
   - h
   - v
-  - .
-  - ¬
   - '&'
   - y
   - ’
   - x
-  - ̃
+  - E
   - ̀
   - C
-  - ́
-  - E
   - A
   - P
+  - ́
+  - ̃
   - R
-  - D
-  - I
-  - ':'
-  - z
   - æ
+  - I
+  - D
+  - ':'
   - L
   - S
   - T
   - N
   - M
   - V
+  - z
   - F
   - O
-  - "'"
   - Q
-  - '?'
+  - "'"
   - H
-  - '1'
-  - '-'
   - (
-  - G
+  - '1'
   - )
+  - G
   - B
-  - ̧
+  - '-'
   - j
-  - œ
-  - '2'
   - ;
+  - '2'
+  - ̧
   - ̈
+  - '?'
+  - œ
   - '5'
   - '8'
   - '7'
-  - X
-  - '3'
-  - '0'
   - α
-  - '4'
-  - '9'
+  - '3'
   - Z
+  - '0'
+  - X
+  - '9'
+  - '4'
   - '6'
-  - '!'
   - ν
   - ε
-  - ß
-  - Y
   - ς
-  - ̂
   - τ
+  - '!'
+  - ß
   - ι
   - ̓
   - ο
+  - Y
   - μ
   - ρ
-  - J
   - ̨
+  - J
+  - ̂
   - »
   - ω
   - υ
   - κ
   - ͂
   - Æ
-  - ⁹
   - '*'
   - π
   - Α
@@ -121,8 +120,6 @@ characters:
   - λ
   - Κ
   - Τ
-  - U
-  - ꝗ
   - «
   - Œ
   mode: NFD
@@ -151,13 +148,13 @@ time:
 title: DLA_FR-LA_16-17
 url: https://github.com/NicolasChampeaux/DLA_FR-LA_16-17/blob/main/README.md
 volume:
-- count: 116721
+- count: 87491
   metric: characters
-- count: 109
+- count: 85
   metric: files
-- count: 3675
+- count: 2893
   metric: lines
 - count: 100
   metric: pages
-- count: 528
+- count: 424
   metric: regions
