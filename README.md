@@ -15,7 +15,7 @@ This repository contains data of the segmentation of early modern printed French
 | Pierre Turrel |sample of [_Contra Othomani Francogalliam libellus_](https://www.digitale-sammlungen.de/view/bsb10178119) | 1576 | Munich, Bayerische Staatsbibliothek | Michel de Roigny | N. Champeaux |
 | Noël Taillepied |sample of [_Recueil des Antiquitez et singularitez de la ville de Pontoise_](https://gallica.bnf.fr/ark:/12148/bpt6k108625t) | 1587 | Paris, BNF | George l'Oiselet | N. Champeaux |
 | Charles Pinselet |sample of [_Le Martyre de Frere Jacques Clement_](https://bibnum.institutdefrance.fr/viewer/18652) | 1589 | Paris, Bibliothèque Mazarine | Robert le Fizelier | N. Champeaux |
-| Jean de Caumoont |sample of [_De l'Union des Catholiques_](https://bibnum.institutdefrance.fr/viewer/18652) | 1587 | Paris, BNF | Nicolas Nivelle | N. Champeaux |
+| Jean de Caumont |sample of [_De l'Union des Catholiques_](https://bibnum.institutdefrance.fr/viewer/18652) | 1587 | Paris, BNF | Nicolas Nivelle | N. Champeaux |
 
 ## How to cite
 
